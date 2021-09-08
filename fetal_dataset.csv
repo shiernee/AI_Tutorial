@@ -1,4 +1,4 @@
-Patient Identifier,"BABY GENDER (1=1, 2=2)","labels (0-healthy, 1-BW < 10th centile)",Age,"Ethnics (chinese =1, malay = 2, indian =3, other =4)",Head Circumference,Abdominal Circumference,Femur
+ID,Gender,"labels (0-healthy, 1-SGA)",Age,"Ethnics",HC,Abdominal Circumference, AC,FL
 1,1,0,30,1,193.9,170.7,35.5
 2,2,0,31,1,186,162.4,36.3
 3,1,0,26,1,186,166,34.7
