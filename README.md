@@ -2,7 +2,7 @@
 
 This repository is created for 14th ACOMP workshop conducted in Phuket 2021. 
 
-14th ACOMP Course
+14th ACOMP Course <br>
 “Getting started with Artificial intelligence”
 In conjunction with SEACOMP Phuket, October 21-23, 2021
 Title:	Getting started with Artificial Intelligence
