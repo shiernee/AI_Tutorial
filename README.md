@@ -2,18 +2,18 @@
 
 This repository is created for 14th ACOMP workshop conducted in Phuket 2021. 
 
-<b>14th ACOMP Course</b> <br>
+<b><u>14th ACOMP Course</b></u> <br>
 “Getting started with Artificial intelligence” <br>
 In conjunction with SEACOMP Phuket, October 21-23, 2021 <br>
-Title:	Getting started with Artificial Intelligence <br>
-Date:	October 22-23, 2021, 8.00-10.00am (GMT +7) <br>
-Duration:	4 hours <br>
-Coordinators:	Prof. Kwan Hoong Ng & Dr. Shier Nee Saw <br>
-Lecturers:	Prof. Chu Kiong Loo, Dr. Shier Nee Saw <br>
+<b>Title:</b> 	Getting started with Artificial Intelligence <br>
+<b>Date:</b>	October 22-23, 2021, 8.00-10.00am (GMT +7) <br>
+<b>Duration:</b>	4 hours <br>
+<b>Coordinators:</b>	Prof. Kwan Hoong Ng & Dr. Shier Nee Saw <br>
+<b>Lecturers:</b>	Prof. Chu Kiong Loo, Dr. Shier Nee Saw <br>
 
-Synopsis: Machine Learning is a form of artificial intelligence that uses patterns in a large dataset to make predictions such as medical diagnosis, object detection, object recognization, anamoly detection and others. This workshop will introduce the concept of Machine Learning focusing on supervised learning. In supervised learning, we will discuss algorithms which are trained on input data labelled with a desired output. Following that, participants will have Colab hands-on training on how to build machine learning model to solve practical problems.
+<b>Synopsis:</b> Machine Learning is a form of artificial intelligence that uses patterns in a large dataset to make predictions such as medical diagnosis, object detection, object recognization, anamoly detection and others. This workshop will introduce the concept of Machine Learning focusing on supervised learning. In supervised learning, we will discuss algorithms which are trained on input data labelled with a desired output. Following that, participants will have Colab hands-on training on how to build machine learning model to solve practical problems.
 
-Learning Objectives:
+<b>Learning Objectives:</b>
 
 To introduce the basic concepts and techniques of Artificial Intelligence/ Machine Learning. <br>
 To gain hands-on coding experience of using recent machine learning for solving practical problem. <br>
