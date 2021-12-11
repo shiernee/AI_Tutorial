@@ -36,9 +36,8 @@ The materials used in the workshop is as followed.
 2. AI_Workshop_Day1 code
 3. AI_Workshop_Day2 code
 4. fetal_datasets.csv
-5. 
-[embed]https://github.com/shiernee/AI_Tutorial/blob/46f96654edd5c03671dc438f085eb202a87f790a/ACOMP_poster.pdf[/embed]
 
+Refer to workshop poster <a href="https://github.com/shiernee/AI_Tutorial/blob/46f96654edd5c03671dc438f085eb202a87f790a/ACOMP_poster.pdf">here</a> 
 
 
 
