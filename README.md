@@ -2,6 +2,8 @@
 
 This repository is created for 14th ACOMP workshop conducted in Phuket 2021. 
 
+[embed]https://github.com/shiernee/AI_Tutorial/blob/main/ACOMP_poster.pdf[/embed]
+
 14th ACOMP Course <br>
 “Getting started with Artificial intelligence” <br>
 In conjunction with SEACOMP Phuket, October 21-23, 2021 <br>
@@ -31,7 +33,7 @@ Day 2, October 23, 2021 <br>
 09.00am – 10.00am	Develop machine learning model for medical problems	Dr. Shier Nee Saw <br>
 * We need a google account to use Google Colab. Please register one if you do not have.
 
-There are four files in this repository. 
+The materials used in the workshop is as followed.  
 1. Lecture power point
 2. AI_Workshop_Day1 code
 3. AI_Workshop_Day2 code
