@@ -2,7 +2,7 @@
 
 This repository is created for 14th ACOMP workshop conducted in Phuket 2021. 
 
-<b><u>14th ACOMP Course</b></u> <br>
+<b><u>14th ACOMP Course</u></b> <br>
 “Getting started with Artificial intelligence” <br>
 In conjunction with SEACOMP Phuket, October 21-23, 2021 <br>
 <b>Title:</b> 	Getting started with Artificial Intelligence <br>
@@ -37,6 +37,7 @@ The materials used in the workshop is as followed.
 3. AI_Workshop_Day2 code
 4. fetal_datasets.csv
 
+Poster of workshop is <a href="https://github.com/shiernee/AI_Tutorial/blob/main/ACOMP_poster.pdf">here</a>
 
 
 
