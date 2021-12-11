@@ -2,7 +2,7 @@
 
 This repository is created for 14th ACOMP workshop conducted in Phuket 2021. 
 
-[embed]https://github.com/shiernee/AI_Tutorial/blob/main/ACOMP_poster.pdf[/embed]
+<embed src="https://github.com/shiernee/AI_Tutorial/blob/main/ACOMP_poster.pdf" type="application/pdf">
 
 14th ACOMP Course <br>
 “Getting started with Artificial intelligence” <br>
